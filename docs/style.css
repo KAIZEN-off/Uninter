@@ -1,0 +1,44 @@
+body{background-color: antiquewhite;}
+
+.principal{color:white;
+text-align: center;
+font-family: Arial, initial, sans-serif;}
+
+.hobbies li{list-style:inside;
+    color: black;
+    width: fit-content;
+    margin-bottom: 10px;}
+
+.bio{font-size:larger;
+text-align: justify;}
+
+.img{width: 250px;
+     height: auto;
+    border-radius: 15px;}
+
+.paises{width: 120px;
+        height: auto;}
+
+
+td, th { border: 1px solid #000;
+         padding: 10px;
+         text-align: center;}
+
+table {border-collapse: collapse;
+       width: 60%;
+       margin: 20px auto;
+       font-family: Arial, sans-serif;}
+
+h2{text-align: center;}
+
+
+a{color: black;}
+
+a:hover{
+    color: white
+    ;
+}
+
+button{text-align: center;}
+
+
